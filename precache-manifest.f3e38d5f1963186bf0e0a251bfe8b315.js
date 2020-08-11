@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bb3d95da3b3be3ffff6d1a78f569cecd",
+    "revision": "06c4e9cf0c4bed57cc8f54d318780cfc",
     "url": "/ffbookerlive/index.html"
   },
   {
