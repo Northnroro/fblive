@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ffbookerlive/static/css/main.b5903468.chunk.css",
-    "main.js": "/ffbookerlive/static/js/main.4c735faf.chunk.js",
-    "main.js.map": "/ffbookerlive/static/js/main.4c735faf.chunk.js.map",
+    "main.css": "/ffbookerlive/static/css/main.b265749d.chunk.css",
+    "main.js": "/ffbookerlive/static/js/main.0fdfee9a.chunk.js",
+    "main.js.map": "/ffbookerlive/static/js/main.0fdfee9a.chunk.js.map",
     "runtime-main.js": "/ffbookerlive/static/js/runtime-main.eb20fc29.js",
     "runtime-main.js.map": "/ffbookerlive/static/js/runtime-main.eb20fc29.js.map",
-    "static/js/2.1dba66cf.chunk.js": "/ffbookerlive/static/js/2.1dba66cf.chunk.js",
-    "static/js/2.1dba66cf.chunk.js.map": "/ffbookerlive/static/js/2.1dba66cf.chunk.js.map",
+    "static/js/2.c0809297.chunk.js": "/ffbookerlive/static/js/2.c0809297.chunk.js",
+    "static/js/2.c0809297.chunk.js.map": "/ffbookerlive/static/js/2.c0809297.chunk.js.map",
     "index.html": "/ffbookerlive/index.html",
-    "precache-manifest.50ef1df3df0b91a86ce6b2cc8b0219f9.js": "/ffbookerlive/precache-manifest.50ef1df3df0b91a86ce6b2cc8b0219f9.js",
+    "precache-manifest.4716a1a3834afcc6bb720a177b3a6c8d.js": "/ffbookerlive/precache-manifest.4716a1a3834afcc6bb720a177b3a6c8d.js",
     "service-worker.js": "/ffbookerlive/service-worker.js",
-    "static/css/main.b5903468.chunk.css.map": "/ffbookerlive/static/css/main.b5903468.chunk.css.map",
-    "static/js/2.1dba66cf.chunk.js.LICENSE.txt": "/ffbookerlive/static/js/2.1dba66cf.chunk.js.LICENSE.txt"
+    "static/css/main.b265749d.chunk.css.map": "/ffbookerlive/static/css/main.b265749d.chunk.css.map",
+    "static/js/2.c0809297.chunk.js.LICENSE.txt": "/ffbookerlive/static/js/2.c0809297.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.eb20fc29.js",
-    "static/js/2.1dba66cf.chunk.js",
-    "static/css/main.b5903468.chunk.css",
-    "static/js/main.4c735faf.chunk.js"
+    "static/js/2.c0809297.chunk.js",
+    "static/css/main.b265749d.chunk.css",
+    "static/js/main.0fdfee9a.chunk.js"
   ]
 }
