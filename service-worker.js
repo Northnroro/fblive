@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ffbookerlive/precache-manifest.4716a1a3834afcc6bb720a177b3a6c8d.js"
+  "/ffbookerlive/precache-manifest.f98ae476fe61a725f8ddc7765c89deea.js"
 );
 
 self.addEventListener('message', (event) => {
