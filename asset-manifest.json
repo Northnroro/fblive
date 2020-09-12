@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/ffbookerlive/static/css/main.b265749d.chunk.css",
-    "main.js": "/ffbookerlive/static/js/main.d238b43f.chunk.js",
-    "main.js.map": "/ffbookerlive/static/js/main.d238b43f.chunk.js.map",
+    "main.js": "/ffbookerlive/static/js/main.f923d9ab.chunk.js",
+    "main.js.map": "/ffbookerlive/static/js/main.f923d9ab.chunk.js.map",
     "runtime-main.js": "/ffbookerlive/static/js/runtime-main.eb20fc29.js",
     "runtime-main.js.map": "/ffbookerlive/static/js/runtime-main.eb20fc29.js.map",
-    "static/js/2.5e9090d8.chunk.js": "/ffbookerlive/static/js/2.5e9090d8.chunk.js",
-    "static/js/2.5e9090d8.chunk.js.map": "/ffbookerlive/static/js/2.5e9090d8.chunk.js.map",
+    "static/js/2.327054e4.chunk.js": "/ffbookerlive/static/js/2.327054e4.chunk.js",
+    "static/js/2.327054e4.chunk.js.map": "/ffbookerlive/static/js/2.327054e4.chunk.js.map",
     "index.html": "/ffbookerlive/index.html",
-    "precache-manifest.ea1ad907ddde3cdb294be9d3d84571e4.js": "/ffbookerlive/precache-manifest.ea1ad907ddde3cdb294be9d3d84571e4.js",
+    "precache-manifest.34d73b5385c0aa04e363e23a018bab32.js": "/ffbookerlive/precache-manifest.34d73b5385c0aa04e363e23a018bab32.js",
     "service-worker.js": "/ffbookerlive/service-worker.js",
     "static/css/main.b265749d.chunk.css.map": "/ffbookerlive/static/css/main.b265749d.chunk.css.map",
-    "static/js/2.5e9090d8.chunk.js.LICENSE.txt": "/ffbookerlive/static/js/2.5e9090d8.chunk.js.LICENSE.txt"
+    "static/js/2.327054e4.chunk.js.LICENSE.txt": "/ffbookerlive/static/js/2.327054e4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.eb20fc29.js",
-    "static/js/2.5e9090d8.chunk.js",
+    "static/js/2.327054e4.chunk.js",
     "static/css/main.b265749d.chunk.css",
-    "static/js/main.d238b43f.chunk.js"
+    "static/js/main.f923d9ab.chunk.js"
   ]
 }
