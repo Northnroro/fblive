@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aaafa6fb14a718759df0698c4c598695",
+    "revision": "61394549e41610999590bcb10d5e56a5",
     "url": "/ffbookerlive/index.html"
   },
   {
-    "revision": "d7426a477c6b6ac8d7fd",
+    "revision": "0e4f80dc6a82a514da00",
     "url": "/ffbookerlive/static/css/main.b265749d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ffbookerlive/static/js/2.327054e4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d7426a477c6b6ac8d7fd",
-    "url": "/ffbookerlive/static/js/main.e1e32bcd.chunk.js"
+    "revision": "0e4f80dc6a82a514da00",
+    "url": "/ffbookerlive/static/js/main.fd5b821e.chunk.js"
   },
   {
     "revision": "95bba685ba5ecbf5305d",
