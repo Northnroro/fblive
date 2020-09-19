@@ -1,22 +1,18 @@
 {
   "files": {
-    "main.css": "/fblive/static/css/main.b265749d.chunk.css",
+    "main.css": "/fblive/static/css/main.489ff0cd.chunk.css",
     "main.js": "/fblive/static/js/main.11b4d84f.chunk.js",
-    "main.js.map": "/fblive/static/js/main.11b4d84f.chunk.js.map",
     "runtime-main.js": "/fblive/static/js/runtime-main.16946dc1.js",
-    "runtime-main.js.map": "/fblive/static/js/runtime-main.16946dc1.js.map",
     "static/js/2.987f33de.chunk.js": "/fblive/static/js/2.987f33de.chunk.js",
-    "static/js/2.987f33de.chunk.js.map": "/fblive/static/js/2.987f33de.chunk.js.map",
     "index.html": "/fblive/index.html",
-    "precache-manifest.b1caf8e2ded8c67c5588bbaae66514a2.js": "/fblive/precache-manifest.b1caf8e2ded8c67c5588bbaae66514a2.js",
+    "precache-manifest.532b6728cb1243f4171902ef7223f5ef.js": "/fblive/precache-manifest.532b6728cb1243f4171902ef7223f5ef.js",
     "service-worker.js": "/fblive/service-worker.js",
-    "static/css/main.b265749d.chunk.css.map": "/fblive/static/css/main.b265749d.chunk.css.map",
     "static/js/2.987f33de.chunk.js.LICENSE.txt": "/fblive/static/js/2.987f33de.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.16946dc1.js",
     "static/js/2.987f33de.chunk.js",
-    "static/css/main.b265749d.chunk.css",
+    "static/css/main.489ff0cd.chunk.css",
     "static/js/main.11b4d84f.chunk.js"
   ]
 }

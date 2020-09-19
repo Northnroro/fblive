@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aa08f977a8324a85be8d3d5439ddd874",
+    "revision": "9f86d8f2ac146aa042f5e2223b4a6ab0",
     "url": "/fblive/index.html"
   },
   {
-    "revision": "5f38764a53ee3ac9e227",
-    "url": "/fblive/static/css/main.b265749d.chunk.css"
+    "revision": "2b5107368ec3ec3b8f3b",
+    "url": "/fblive/static/css/main.489ff0cd.chunk.css"
   },
   {
     "revision": "a150bb144cf6d95e75c7",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fblive/static/js/2.987f33de.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5f38764a53ee3ac9e227",
+    "revision": "2b5107368ec3ec3b8f3b",
     "url": "/fblive/static/js/main.11b4d84f.chunk.js"
   },
   {
